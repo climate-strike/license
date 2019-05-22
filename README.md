@@ -1,0 +1,1 @@
+# climate-strike-license
