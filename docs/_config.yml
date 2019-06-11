@@ -1,2 +1,9 @@
-name: Climate Strike License
+name: Climate Strike Software
+url: https://climatestrike.software
+description: An archive of all software projects that uses the Climate Strike License
+twitter: 
+  username: organizejs
+  card: summary
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
