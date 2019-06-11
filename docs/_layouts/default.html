@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="Index,Follow">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{{ page.title }}</title>
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/images/favicon/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/images/favicon/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/images/favicon/favicon-16x16.png' | relative_url }}">
+    <link rel="manifest" href="{{ 'assets/images/favicon/site.webmanifest' | relative_url }}">
+    <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="{{ 'assets/css/main.css' | relative_url }}">
+    <!-- link to fontawesome 5 -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <!-- Global site tag (gtag.js) - Google Analytics TODO -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-140592418-2');
+    </script>
+  </head>
+  <body class="check-mobile">
+    <!-- link to JS scripts-->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="{{ 'assets/js/mobile.js' | relative_url }}"></script>
+
+    <nav>
+      <a class="github-button" href="https://github.com/organizejs/climate-strike-license" data-icon="octicon-star" data-show-count="true" aria-label="Star organizejs/climate-strike-license on GitHub">Star</a>
+      <ul>
+        <li><a href="https://github.com/organizejs/climate-strike-license">Github</a></li>
+        <li><a href="">Contact us</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+    
+    {{ content }}
+    
+    </div><!-- /.container -->
+    <footer>
+      <ul>
+        <li><a href="">hi@climatestrike.software</a></li>
+      </ul>
+    </footer>
+
+    <!-- github button js -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+  </body>
+</html>
+
