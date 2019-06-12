@@ -3,7 +3,7 @@ url: https://climatestrike.software
 description: An archive of all software projects that uses the Climate Strike License
 twitter: 
   username: organizejs
-  card: summary
+  card: summary_large_image
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
