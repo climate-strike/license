@@ -15,7 +15,46 @@ By adopting the Climate Strike License, developers can explicitly prohibit the u
 This license reminds developers that we have the power to stop these multinational oil companies from taking advantage of open source software -- that instead of waiting idly by, that they can take an active position in preventing a climate catastrophe.
 
 ## I make software. What can I do?
-Add the [Climate Strike License](LICENSE_TEMPLATE) to your repo and attach this badge to your project's readme by putting the following URL under your project's title.
+The best thing you can do is use the Climate Strike License in your projects! Following the steps below to do so: 
+
+1. Add a new file titled  `LICENSE` at the root level of your project and paste the following license into the file:
+```
+Copyright (c) <year> <copyright holders> 
+
+"Climate Strike" License Version 1.0 (Draft) 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of 
+this software and associated documentation files (the "Software"), to deal in 
+the Software without limitation in the rights to use, copy, modify, merge, 
+publish, distribute, sublicense, and/or sell copies of the Software, and to 
+permit persons to whom the Software is furnished to do so, subject to the 
+following conditions: 
+
+The above copyright notice and this permission notice shall be included in all 
+copies or substantial portions of the Software. 
+
+The Software may not be used in applications and services that are used for or 
+aid in the exploration, extraction, refinement, processing, or transportation 
+of fossil fuels. 
+
+The Software may not be used by companies that rely on fossil fuel extraction 
+as their primary means of revenue. This includes but is not limited to the 
+companies listed on https://climatestrike.software/blacklist 
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE. 
+```
+
+2. Update the `<year>` and `<copyright holders>` fields at the top of the license.
+
+3. Attach the badge to your project's readme by putting the following URL under your project's title.
 ```
 [![Build Status](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)
 ```
+
+Don't forget to star this repo to show your support!
