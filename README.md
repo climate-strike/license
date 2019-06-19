@@ -17,5 +17,5 @@ This license reminds developers that we have the power to stop these multination
 ## I make software. What can I do?
 Add the [Climate Strike License](LICENSE) to your repo and attach this badge to your project's readme by putting the following URL under your project's title.
 ```
-[![Build Status](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github
-)```
+[![Build Status](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)
+```
