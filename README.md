@@ -57,4 +57,6 @@ SOFTWARE.
 [![Build Status](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)
 ```
 
+4. Add your project to the [Greenlist](greenlist) by making a PR to this repo.
+
 Don't forget to star this repo to show your support!
