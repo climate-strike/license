@@ -19,8 +19,10 @@ To use the license in your project, follow the steps below:
 
 1. Update the `<year>` and `<copyright holders>` fields at the top of the license.
 
-1. Attach the badge to your project by pasting the following snippet to your project's `README.md`. 
-  `[![Build Status](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)`
+1. Attach the badge to your project by pasting the following snippet into your project's `README.md`: 
+    ```
+    [![Build Status](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)
+    ```
 
 1. Add your project to the [Greenlist](greenlist) by making a PR to this repo.
 
