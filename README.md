@@ -30,6 +30,13 @@ Here's a list of the top 10 open source projects that knowingly or unknowingly c
 | [numpy](https://github.com/numpy/numpy) | :x: | N/A | :link: |
 | [toolz](https://github.com/pytoolz/toolz) | :x: | N/A | Not yet created |
 | [pandas](https://github.com/pandas-dev/pandas) | :heavy_check_mark: | 2019/10/10 | :link: |
+| [numpy](https://github.com/numpy/numpy) | :x: | N/A | :link: |
+| [toolz](https://github.com/pytoolz/toolz) | :x: | N/A | Not yet created |
+| [pandas](https://github.com/pandas-dev/pandas) | :heavy_check_mark: | 2019/10/10 | :link: |
+| [numpy](https://github.com/numpy/numpy) | :x: | N/A | :link: |
+| [toolz](https://github.com/pytoolz/toolz) | :x: | N/A | Not yet created |
+| [pandas](https://github.com/pandas-dev/pandas) | :heavy_check_mark: | 2019/10/10 | :link: |
+| [numpy](https://github.com/numpy/numpy) | :x: | N/A | :link: |
 
 ## How to use the License?
 To use the license in your project, follow the steps below: 
