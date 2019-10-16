@@ -53,6 +53,14 @@ footer {
     text-align: center;
     font-size: .8em;
 }
+pre code {
+    font-size: 16px;
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 24px;
+    overflow-y: scroll;
+}
 
 /* github star */
 nav > span {
