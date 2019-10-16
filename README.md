@@ -23,29 +23,49 @@ This license reminds developers that we have the power to stop these multination
 
 ## Top OSS projects that accelerate the climate crisis
 
-Here's a list of the top 10 open source projects that knowingly or unknowingly contributes to the climate crisis. See our [methodology](..) for coming up with this list here.
+Here's a list of the top 30 open source projects that knowingly or unknowingly contributes to the climate crisis. See our [methodology](..) for coming up with this list here.
 
-| Project | Uses the Climate Strike License | Date of adoption | Link to Issue |
-| --- | --- | --- | --- |
-| [numpy](https://github.com/numpy/numpy) | :x: | N/A | :link: |
-| [toolz](https://github.com/pytoolz/toolz) | :x: | N/A | Not yet created |
-| [pandas](https://github.com/pandas-dev/pandas) | :heavy_check_mark: | 2019/10/10 | :link: |
-| [numpy](https://github.com/numpy/numpy) | :x: | N/A | :link: |
-| [toolz](https://github.com/pytoolz/toolz) | :x: | N/A | Not yet created |
-| [pandas](https://github.com/pandas-dev/pandas) | :heavy_check_mark: | 2019/10/10 | :link: |
-| [numpy](https://github.com/numpy/numpy) | :x: | N/A | :link: |
-| [toolz](https://github.com/pytoolz/toolz) | :x: | N/A | Not yet created |
-| [pandas](https://github.com/pandas-dev/pandas) | :heavy_check_mark: | 2019/10/10 | :link: |
-| [numpy](https://github.com/numpy/numpy) | :x: | N/A | :link: |
+| Project                                                | Uses the Climate Strike License | Date of adoption | Link to Issue   |
+| ---                                                    | ---                             | ---              | ---             |
+| [numpy](https://github.com/numpy/numpy) | :x: | N/A | Not yet created |
+| [matplotlib](https://github.com/matplotlib/matplotlib) | :x: | N/A | Not yet created |
+| [scipy](https://github.com/scipy/scipy) | :x: | N/A | Not yet created |
+| [pandas](https://github.com/pandas-dev/pandas) | :x: | N/A | Not yet created |
+| [pytest](https://github.com/pytest-dev/pytest) | :x: | N/A | Not yet created |
+| [sphinx](https://github.com/sphinx-doc/sphinx) | :x: | N/A | Not yet created |
+| [jupyter](https://github.com/jupyter/jupyter) | :x: | N/A | Not yet created |
+| [nose](https://github.com/nose-devs/nose) | :x: | N/A | Not yet created |
+| [pytest-cov](https://github.com/pytest-dev/pytest-cov) | :x: | N/A | Not yet created |
+| [ipython](https://github.com/ipython/ipython) | :x: | N/A | Not yet created |
+| [scikit-learn](https://github.com/scikit-learn/scikit-learn) | :x: | N/A | Not yet created |
+| [requests](https://github.com/psf/requests) | :x: | N/A | Not yet created |
+| [Pillow](https://github.com/python-pillow/Pillow) | :x: | N/A | Not yet created |
+| [sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | :x: | N/A | Not yet created |
+| [numpydoc](https://github.com/numpy/numpydoc) | :x: | N/A | Not yet created |
+| [six](https://github.com/benjaminp/six) | :x: | N/A | Not yet created |
+| [coveragepy](https://github.com/nedbat/coveragepy) | :x: | N/A | Not yet created |
+| [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) | :x: | N/A | Not yet created |
+| [cython](https://github.com/cython/cython) | :x: | N/A | Not yet created |
+| [numba](https://github.com/numba/numba) | :x: | N/A | Not yet created |
+| [python-dateutil](https://github.com/paxan/python-dateutil) | :x: | N/A | Not yet created |
+| [h5py](https://github.com/h5py/h5py) | :x: | N/A | Not yet created |
+| [flake8](https://github.com/onlytiancai/flake8) | :x: | N/A | Not yet created |
+| [tqdm](https://github.com/tqdm/tqdm) | :x: | N/A | Not yet created |
+| [sphinx-gallery](https://github.com/sphinx-gallery/sphinx-gallery) | :x: | N/A | Not yet created |
+| [pytz](https://github.com/stub42/pytz) | :x: | N/A | Not yet created |
+| [jinja](https://github.com/pallets/jinja) | :x: | N/A | Not yet created |
+| [pyparsing](https://github.com/pyparsing/pyparsing) | :x: | N/A | Not yet created |
+| [scikit-image](https://github.com/scikit-image/scikit-image) | :x: | N/A | Not yet created |
+| [lodash](https://github.com/lodash/lodash) | :x: | N/A | Not yet created |
 
 ## How to use the License?
-To use the license in your project, follow the steps below: 
+To use the license in your project, follow the steps below:
 
 1. Add the [license](LICENSE) to the root level of your project:
 
 1. Update the `<year>` and `<copyright holders>` fields at the top of the license.
 
-1. Attach the badge to your project by pasting the following snippet into your project's `README.md`: 
+1. Attach the badge to your project by pasting the following snippet into your project's `README.md`:
     ```
     [![Build Status](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)
     ```
@@ -56,7 +76,7 @@ To use the license in your project, follow the steps below:
 A short list of useful articles about software and climate change:
 
 - [How Google, Microsoft, and Big Tech Are Automating the Climate Crisis](https://gizmodo.com/how-google-microsoft-and-big-tech-are-automating-the-1832790799)
-  
+
   This article provides a good overview of how the three cloud computing giants (Microsoft, Google, Amazon) have become active collaborators of the oil and gas industry and how they are using AI to automate the climate crisis.
 
 - [Amazon Employees Will Walk Out Over the Company's Climate Change Inaction](https://www.wired.com/story/amazon-walkout-climate-change/)
