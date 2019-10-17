@@ -23,40 +23,20 @@ This license reminds developers that we have the power to stop these multination
 
 ## Top OSS projects that accelerate the climate crisis
 
-Here's a list of the top 30 open source projects that knowingly or unknowingly contributes to the climate crisis. See our [methodology](..) for coming up with this list here.
+This is a list of the top 10 open source projects that knowingly or unknowingly contributes to the climate crisis. To create this list, we parsed through GitHub for all the repos that are explicitly used for oil production and we looked through all of their dependencies. This list reflects the repos that are most commonly used when building software for oil production. See our full [methodology](https://github.com/climate-strike/analysis) for creating this list.
 
-| Project                                                | Uses the Climate Strike License | Date of adoption | Link to Issue   |
-| ---                                                    | ---                             | ---              | ---             |
-| [numpy](https://github.com/numpy/numpy) | :x: | N/A | Not yet created |
-| [matplotlib](https://github.com/matplotlib/matplotlib) | :x: | N/A | Not yet created |
-| [scipy](https://github.com/scipy/scipy) | :x: | N/A | Not yet created |
-| [pandas](https://github.com/pandas-dev/pandas) | :x: | N/A | Not yet created |
-| [pytest](https://github.com/pytest-dev/pytest) | :x: | N/A | Not yet created |
-| [sphinx](https://github.com/sphinx-doc/sphinx) | :x: | N/A | Not yet created |
-| [jupyter](https://github.com/jupyter/jupyter) | :x: | N/A | Not yet created |
-| [pytest-cov](https://github.com/pytest-dev/pytest-cov) | :x: | N/A | Not yet created |
-| [nose](https://github.com/nose-devs/nose) | :x: | N/A | Not yet created |
-| [requests](https://github.com/psf/requests) | :x: | N/A | Not yet created |
-| [scikit-learn](https://github.com/scikit-learn/scikit-learn) | :x: | N/A | Not yet created |
-| [numpydoc](https://github.com/numpy/numpydoc) | :x: | N/A | Not yet created |
-| [ipython](https://github.com/ipython/ipython) | :x: | N/A | Not yet created |
-| [six](https://github.com/benjaminp/six) | :x: | N/A | Not yet created |
-| [coveragepy](https://github.com/nedbat/coveragepy) | :x: | N/A | Not yet created |
-| [Pillow](https://github.com/python-pillow/Pillow) | :x: | N/A | Not yet created |
-| [sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | :x: | N/A | Not yet created |
-| [flake8](https://github.com/onlytiancai/flake8) | :x: | N/A | Not yet created |
-| [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) | :x: | N/A | Not yet created |
-| [tqdm](https://github.com/tqdm/tqdm) | :x: | N/A | Not yet created |
-| [numba](https://github.com/numba/numba) | :x: | N/A | Not yet created |
-| [python-dateutil](https://github.com/paxan/python-dateutil) | :x: | N/A | Not yet created |
-| [cython](https://github.com/cython/cython) | :x: | N/A | Not yet created |
-| [sphinx-gallery](https://github.com/sphinx-gallery/sphinx-gallery) | :x: | N/A | Not yet created |
-| [h5py](https://github.com/h5py/h5py) | :x: | N/A | Not yet created |
-| [pytz](https://github.com/stub42/pytz) | :x: | N/A | Not yet created |
-| [scikit-image](https://github.com/scikit-image/scikit-image) | :x: | N/A | Not yet created |
-| [pyparsing](https://github.com/pyparsing/pyparsing) | :x: | N/A | Not yet created |
-| [jinja](https://github.com/pallets/jinja) | :x: | N/A | Not yet created |
-| [sympy](https://github.com/sympy/sympy) | :x: | N/A | Not yet created |
+| Rank | Project                                                | Uses the Climate Strike License | Date of adoption | Link to Issue   |
+| --- | ---                                                    | ---                             | ---              | ---             |
+| 1 | [numpy](https://github.com/numpy/numpy) | :x: | N/A | Not yet created |
+| 2 | [matplotlib](https://github.com/matplotlib/matplotlib) | :x: | N/A | Not yet created |
+| 3 | [scipy](https://github.com/scipy/scipy) | :x: | N/A | Not yet created |
+| 4 | [pandas](https://github.com/pandas-dev/pandas) | :x: | N/A | Not yet created |
+| 5 | [pytest](https://github.com/pytest-dev/pytest) | :x: | N/A | Not yet created |
+| 6 | [sphinx](https://github.com/sphinx-doc/sphinx) | :x: | N/A | Not yet created |
+| 7 | [jupyter](https://github.com/jupyter/jupyter) | :x: | N/A | Not yet created |
+| 8 | [pytest-cov](https://github.com/pytest-dev/pytest-cov) | :x: | N/A | Not yet created |
+| 9 | [nose](https://github.com/nose-devs/nose) | :x: | N/A | Not yet created |
+| 10 | [requests](https://github.com/psf/requests) | :x: | N/A | Not yet created |
 
 ## How to use the License?
 To use the license in your project, follow the steps below:

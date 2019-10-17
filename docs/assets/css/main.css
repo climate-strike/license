@@ -62,6 +62,21 @@ pre code {
     overflow-y: scroll;
 }
 
+/* repo table */
+table {
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  border-spacing: 0;
+  border-left: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
+td, th {
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 4px 8px;
+}
+
+
+
 /* github star */
 nav > span {
     display: inline;
