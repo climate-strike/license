@@ -23,7 +23,7 @@ This license reminds developers that we have the power to stop these multination
 
 ## Top OSS projects that accelerate the climate crisis
 
-Here's a list of the top 10 open source projects that knowingly or unknowingly contributes to the climate crisis. See our [methodology](https://github.com/climate-strike/analysis) for coming up with this list here.
+This is a list of the top 10 open source projects that knowingly or unknowingly contributes to the climate crisis. To create this list, we parsed through GitHub for all the repos that are explicitly used for oil production and we looked through all of their dependencies. This list reflects the repos that are most commonly used when building software for oil production. See our full [methodology](https://github.com/climate-strike/analysis) for creating this list.
 
 | Rank | Project                                                | Uses the Climate Strike License | Date of adoption | Link to Issue   |
 | --- | ---                                                    | ---                             | ---              | ---             |
