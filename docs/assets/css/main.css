@@ -19,6 +19,21 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+#nav-mobile-menu span{
+    color: rgba(0, 200, 0, 1);
+    cursor: pointer; 
+}
+/* mobile menu */
+@media only screen and (max-width: 600px) {
+  nav #nav-menu li, footer ul li {
+      display: block;
+      border-top: 1px solid #eee;
+      padding-top: 6px;
+      padding-bottom: 6px;
+      margin-right: inherit;
+  }
+}
+
 a {
     text-decoration: none;
     color: rgba(0, 200, 0, 1);
@@ -87,3 +102,44 @@ nav > span {
 }
 
 
+/* mobile table */
+@media only screen and (max-width: 600px) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+  table {
+    border-left: inherit;
+    border-top: inherit;
+  }
+  th {
+    display: none;
+  }
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  tr { border: 1px solid #ccc; }
+  td {
+    border: none;
+    border-bottom: 1px solid #eee;
+    border-left: 1px solid #eee;
+    position: relative;
+    padding-left: 10px;
+    margin-left: 100px;
+  }
+  td:before {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 50px;
+    padding-right: 10px;
+    white-space: nowrap;
+    margin-left: -100px;
+  }
+  td:nth-of-type(1):before { content: "Rank"; }
+  td:nth-of-type(2):before { content: "Project"; }
+  td:nth-of-type(3):before { content: "License"; }
+  td:nth-of-type(4):before { content: "Adoption";}
+  td:nth-of-type(5):before { content: "Issue";}
+}

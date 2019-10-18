@@ -11,4 +11,22 @@ $(document).ready(function () {
             $(this).addClass("is-mobile")
         }
     })
+
+    // convert header to mobile
+    if (isMobile) {
+      $("#nav-menu").hide(); 
+      $("#nav-mobile-menu").show(); 
+
+      $("#nav-mobile-menu").click(function() {
+          if (!$("#nav-menu").is(":hidden")) {
+              console.log("hide");
+              $("#nav-menu").hide();
+              $("#nav-mobile-menu>li>span").html("Menu");
+          } else {
+              console.log("make visible");
+              $("#nav-menu").show();
+              $("#nav-mobile-menu>li>span").html("Close");
+          }
+      });
+    }
 })
