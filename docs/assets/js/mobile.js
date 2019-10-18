@@ -28,5 +28,7 @@ $(document).ready(function () {
               $("#nav-mobile-menu>li>span").html("Close");
           }
       });
+    } else {
+      $("#nav-mobile-menu").hide(); 
     }
 })
