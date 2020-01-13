@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github
 )
 
-Climate Strike Software is software that uses the [Climate Strike License](LICENSE), a software license that developers can use to prohibit the use of their code by applications or companies that threaten to accelerate climate change through fossil fuel extraction.
+Climate Strike Software is software that uses the [Climate Strike License](licenses), a software license that developers can use to prohibit the use of their code by applications or companies that threaten to accelerate climate change through fossil fuel extraction.
 
 ## Table of Contents
 1. [Why now?](#why-now)
@@ -25,7 +25,7 @@ This license reminds developers that we have the power to stop these multination
 
 This is a list of the top 10 open source projects that knowingly or unknowingly contributes to the climate crisis. If each of these projects adopt the climate strike license, we may start to see a significant impact to the productivity of the fossil fuel industries.
 
-To create this list, we parsed through GitHub for all the repos that are explicitly used for oil production and we looked through all of their dependencies. This list reflects the repos that are most commonly used when building software for oil production. 
+To create this list, we parsed through GitHub for all the repos that are explicitly used for oil production and we looked through all of their dependencies. This list reflects the repos that are most commonly used when building software for oil production.
 
 See our full [methodology](https://github.com/climate-strike/analysis) for creating this list.
 
@@ -45,16 +45,16 @@ See our full [methodology](https://github.com/climate-strike/analysis) for creat
 ## How to use the License?
 To use the license in your project, follow the steps below:
 
-1. Add the [license](LICENSE) to the root level of your project:
+1. Add the license appropriate for your project ([MIT](licenses/MIT), [BSD](licenses/BSD), or [request another](https://github.com/climate-strike/license/issues)) to the root level of your project:
 
-1. Update the `<year>` and `<copyright holders>` fields at the top of the license.
+2. Update the `<year>` and `<copyright holders>` fields at the top of the license.
 
-1. Attach the badge to your project by pasting the following snippet into your project's `README.md`:
+3. Attach the badge to your project by pasting the following snippet into your project's `README.md`:
     ```
     [![Build Status](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)
     ```
 
-1. Add your project to the [Greenlist](greenlist) by making a PR to this repo.
+4. Add your project to the [Greenlist](greenlist) by making a PR to this repo.
 
 ## Reading List
 A short list of useful articles about software and climate change:
