@@ -21,7 +21,7 @@ nav ul li, footer ul li {
 }
 #nav-mobile-menu span{
     color: rgba(0, 200, 0, 1);
-    cursor: pointer; 
+    cursor: pointer;
 }
 /* mobile menu */
 @media only screen and (max-width: 600px) {
@@ -75,6 +75,13 @@ pre code {
     display: block;
     padding: 24px;
     overflow-y: scroll;
+}
+h2 {
+  margin-bottom: 0;
+}
+h6 {
+  margin: 0;
+  font-weight: normal;
 }
 
 /* repo table */
