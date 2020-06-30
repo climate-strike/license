@@ -1,6 +1,6 @@
 # Blocklist
 
-Companies who are bad-listed from using Climate Strike Software (software that uses the Climate Strike License).
+Companies who are blocklisted from using Climate Strike Software (software that uses the Climate Strike License).
 
 | Company | Ownership | Revenue USD (2018) | Primary Business | Link |
 |---------|----------------|----------------|------------------|------|
