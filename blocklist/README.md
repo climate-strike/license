@@ -1,6 +1,6 @@
-# Blacklist
+# Blocklist
 
-Companies who are blacklisted from using Climate Strike Software (software that uses the Climate Strike License).
+Companies who are bad-listed from using Climate Strike Software (software that uses the Climate Strike License).
 
 | Company | Ownership | Revenue USD (2018) | Primary Business | Link |
 |---------|----------------|----------------|------------------|------|
@@ -233,8 +233,8 @@ Companies who are blacklisted from using Climate Strike Software (software that 
 - Era Group Inc.
 - MV Oil Trust
 
-## Add to the blacklist
-To add to the blacklist, make a PR to this file. In the PR, please provide supporting material for why a company should be added to the black list.
+## Add to the blocklist
+To add to the blocklist, make a PR to this file. In the PR, please provide supporting material for why a company should be added to the black list.
 
 ## Sources:
 - <https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions>
