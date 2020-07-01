@@ -23,7 +23,7 @@ Companies who are blocklisted from using Climate Strike Software (software that 
 | Total S.A. | Investor-Owned | 209.4 billion | Oil and gas | [:link:](http://total.com/) |
 | Sonatrach | State | 76.1 billion | Oil and gas | [:link:](http://www.sonatrach.dz/) |
 | BHP | Investor-Owned | 43.638 billion | Metals and mining | [:link:](http://www.bhp.com/) |
-| Petrobas | State | 90.1 billion | Petroleum industry | [:link:](http://www.petrobras.com.br/en) |
+| Petrobras | State | 90.1 billion | Petroleum industry | [:link:](http://www.petrobras.com.br/en) |
 | Schlumberger | Investor-Owned | 32.8 billion | Oilfield services & equipment | [:link:](http://www.slb.com/) |
 | Halliburton | Investor-Owned | 24 billion | Oilfield services & equipment | [:link:](https://www.halliburton.com/)
 
