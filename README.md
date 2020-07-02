@@ -23,7 +23,7 @@ This license reminds developers that we have the power to stop these multination
 
 ## Top OSS projects that accelerate the climate crisis
 
-This is a list of the top 10 open source projects that knowingly or unknowingly contributes to the climate crisis. If each of these projects adopt the climate strike license, we may start to see a significant impact to the productivity of the fossil fuel industries.
+This is a list of the top 10 open source projects that knowingly or unknowingly contribute to the climate crisis. If each of these projects adopts the climate strike license, we may start to see a significant impact on the productivity of the fossil fuel industries.
 
 To create this list, we parsed through GitHub for all the repos that are explicitly used for oil production and we looked through all of their dependencies. This list reflects the repos that are most commonly used when building software for oil production.
 
@@ -65,7 +65,7 @@ A short list of useful articles about software and climate change:
 
 - [Amazon Employees Will Walk Out Over the Company's Climate Change Inaction](https://www.wired.com/story/amazon-walkout-climate-change/)
 
-  Amazon workers walked out on September 20th, 2019 as part of the Global Climate Strike. They demanded the following of their company: (1) Zero emissions by 2030, (2) Zero custom Amazon Web Services (AWS) contracts for fossil fuel companies to accelerate oil and gas extraction, (3) Zero funding for climate denying lobbyists and politicians.
+  Amazon workers walked out on September 20th, 2019 as part of the Global Climate Strike. They demanded the following of their company: (1) Zero emissions by 2030, (2) Zero custom Amazon Web Services (AWS) contracts for fossil fuel companies to accelerate oil and gas extraction, (3) Zero funding for climate-denying lobbyists and politicians.
 
 - [Here are 10 ways AI could help fight climate change](https://www.technologyreview.com/s/613838/ai-climate-change-machine-learning/)
 
