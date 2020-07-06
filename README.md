@@ -31,7 +31,7 @@ See our full [methodology](https://github.com/climate-strike/analysis) for creat
 
 | Rank | Project                                                | Uses the Climate Strike License | Date of adoption | Link to Issue   |
 | --- | ---                                                    | ---                             | ---              | ---             |
-| 1 | [numpy](https://github.com/numpy/numpy) | :x: | N/A | Not yet created |
+| 1 | [numpy](https://github.com/numpy/numpy) | :x: | N/A | [Issue](https://github.com/numpy/numpy/issues/16722) [Discussion](https://mail.python.org/pipermail/numpy-discussion/2020-July/080803.html) |
 | 2 | [matplotlib](https://github.com/matplotlib/matplotlib) | :x: | N/A | Not yet created |
 | 3 | [scipy](https://github.com/scipy/scipy) | :x: | N/A | Not yet created |
 | 4 | [pandas](https://github.com/pandas-dev/pandas) | :x: | N/A | Not yet created |
