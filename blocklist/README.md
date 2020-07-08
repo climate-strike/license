@@ -234,7 +234,7 @@ Companies who are blocklisted from using Climate Strike Software (software that 
 - MV Oil Trust
 
 ## Add to the blocklist
-To add to the blocklist, make a PR to this file. In the PR, please provide supporting material for why a company should be added to the black list.
+To add to the blocklist, make a PR to this file. In the PR, please provide supporting material for why a company should be added to the blocklist.
 
 ## Sources:
 - <https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions>
